@@ -1,0 +1,6 @@
+﻿1>------ Build started: Project: sigapp, Configuration: Debug Win32 ------
+1>my_viewer.cpp
+1>sigapp.vcxproj -> C:\Users\Brendan\Documents\Courses\CSE170\Project2\sigapp\vs2017\\obj\sigapp_Debug_Win32_v141\sigapp32mdd.exe
+1>sigapp.vcxproj -> C:\Users\Brendan\Documents\Courses\CSE170\Project2\sigapp\vs2017\\obj\sigapp_Debug_Win32_v141\sigapp32mdd.pdb (Full PDB)
+1>        1 file(s) copied.
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
